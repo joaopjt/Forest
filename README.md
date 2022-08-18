@@ -1,4 +1,4 @@
-# forest
+# :evergreen_tree: Forest
 A CLI and Dashboard for tracking tasks.
 
 ## Getting Started
